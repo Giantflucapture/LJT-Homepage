@@ -40,8 +40,9 @@ redirect_from:
 
 ## Publications
 
+{% assign publications = site.publications | sort: "order" %}
 <ul>
-{% for post in site.publications reversed %}
+{% for post in publications %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>

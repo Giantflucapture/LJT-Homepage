@@ -44,8 +44,9 @@ My Ph.D. supervisor is Professor Junxian He, who also previously advised me duri
 
 ## Publications
 
+{% assign publications = site.publications | sort: "order" %}
 <ul>
-{% for post in site.publications reversed %}
+{% for post in publications %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
