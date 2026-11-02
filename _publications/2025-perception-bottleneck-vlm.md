@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publications/2025-perception-bottleneck-vlm
 excerpt: 'First-author paper. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, and Junxian He. Code repository: Vision4Chart.'
-date: false
+date: "2025-01-01"
 year: 2025
 order: 2
 venue: 'arXiv'

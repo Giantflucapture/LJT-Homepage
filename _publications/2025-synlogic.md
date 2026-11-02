@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publications/2025-synlogic
 excerpt: 'First-author paper. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, and Junxian He. Code repository available on GitHub.'
-date: false
+date: "2025-01-01"
 year: 2025
 order: 1
 venue: 'arXiv'
